@@ -1,1 +1,0 @@
-http://blog.ricardopereira.eu/2014/09/15/PT-restful-api-nodejs/
